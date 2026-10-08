@@ -352,6 +352,9 @@ This blog offers a guide for anyone looking to explore the power of artificial i
 #### 99- Zarla AI: [Click here to access the AI!](https://www.zarla.com/)
 > As a website creation tool, it allows users to design websites quickly and easily. It brings your projects to life with its user-friendly interface.
 
+#### 100- Auferet: [Click here to access the AI!](https://auferet.com/)
+> An AI game master for solo text adventures and tabletop RPGs. It keeps a long-term memory of your story and lets you upload your own world lore.
+
 ## Conclusion
 As a rapidly evolving field of technology, artificial intelligence continues to provide effective solutions across nearly every sector. The tools introduced in this blog can help you leverage the power of AI to take your projects to the next level. Whether you’re breaking down language barriers with natural language processing tools or optimizing your data analysis with machine learning tools, you can push your boundaries with these solutions.
 
